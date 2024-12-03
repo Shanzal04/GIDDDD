@@ -44,11 +44,25 @@ const Header = () => {
             >
               Edits
             </Link>  */}
-            <Link
+            {/* <Link
               href="/three"
               className={activeLink == "/three" ? "activeLink" : "none"}
             >
               3D PROJECTS
+            </Link> */}
+
+            <Link
+              href="/brandani"
+              className={activeLink == "/brandani" ? "activeLink" : "none"}
+            >
+              Brand Work
+            </Link>
+
+            <Link
+              href="/adver"
+              className={activeLink == "/adver" ? "activeLink" : "none"}
+            >
+              Advertisement
             </Link>
             {/* <Link
               href="/website"

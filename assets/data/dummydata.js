@@ -367,27 +367,6 @@ export const three = [
     category: "WEBSITES",
     url: "https://www.youtube.com/shorts/7anKqdNp5RE",
   },
-  // {
-  //   id: 2,
-  //   title: "3d",
-  //   vedioId: "111O5Gj3zSU",
-  //   category: "WEBSITES",
-  //   url: "https://www.youtube.com/shorts/111O5Gj3zSU",
-  // },
-  // {
-  //   id: 3,
-  //   title: "3d",
-  //   vedioId: "7anKqdNp5RE",
-  //   category: "WEBSITES",
-  //   url: "https://www.youtube.com/shorts/7anKqdNp5RE",
-  // },
-  // {
-  //   id: 4,
-  //   title: "3d",
-  //   vedioId: "7anKqdNp5RE",
-  //   category: "WEBSITES",
-  //   url: "https://www.youtube.com/shorts/7anKqdNp5RE",
-  // },
 ];
 
 export const code = [
@@ -411,6 +390,54 @@ export const code = [
     cover: "/images/an.png",
     category: "WEBSITES",
     url: "https://www.youtube.com/watch?v=gqUQbjsYZLQ",
+  },
+];
+
+export const Brandwork = [
+  {
+    id: 1,
+    title: "E-cell IIT Patna",
+    videoId: "sPM2WiwA1us", // The YouTube video ID
+    category: "DIGITAL MARKETING",
+    url: "https://youtu.be/afOatLH3Cno?si=clxzR2fUaL6Cyh0I", // Full URL for link
+  },
+  {
+    id: 2,
+    title: "Anwesha IITP",
+    videoId: "e0KIzLk8Br4", // Replace with a real YouTube video ID
+    category: "WEBSITES",
+    url: "https://youtube.com/shorts/e0KIzLk8Br4?si=BAcxP5rl7g2FqKIh",
+  },
+  {
+    id: 3,
+    title: "Njack IITP",
+    videoId: "SKeJY_G2wNg",
+    category: "WEBSITES",
+    url: "https://youtu.be/SKeJY_G2wNg?si=rQx_dH_7eqLeiL7k",
+  },
+];
+
+export const Advertise = [
+  {
+    id: 1,
+    title: "E-cell IIT Patna",
+    videoId: "afOatLH3Cno", // The YouTube video ID
+    category: "DIGITAL MARKETING",
+    url: "https://youtu.be/afOatLH3Cno?si=clxzR2fUaL6Cyh0I", // Full URL for link
+  },
+  {
+    id: 2,
+    title: "Anwesha IITP",
+    videoId: "e0KIzLk8Br4", // Replace with a real YouTube video ID
+    category: "WEBSITES",
+    url: "https://youtube.com/shorts/e0KIzLk8Br4?si=BAcxP5rl7g2FqKIh",
+  },
+  {
+    id: 3,
+    title: "Njack IITP",
+    videoId: "SKeJY_G2wNg",
+    category: "WEBSITES",
+    url: "https://youtu.be/SKeJY_G2wNg?si=rQx_dH_7eqLeiL7k",
   },
 ];
 
@@ -440,6 +467,7 @@ export const brand = [
     cover: "/images/l6.svg",
   },
 ];
+
 export const blogdata = [
   {
     id: 1,
